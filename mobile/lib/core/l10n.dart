@@ -16,15 +16,15 @@ class HingaL10n {
     },
     'rw': {
       'welcome': 'Murakaza neza kuri Hinga+',
-      'weather': 'HingaHava',
-      'pests': 'HingaShinga',
-      'planner': 'HingaGahunda',
-      'market': 'HingaIsoko',
-      'support': 'HingaInama',
+      'weather': 'Ikirere',
+      'pests': 'Ibyonnyi',
+      'planner': 'Gahunda yo guhinga',
+      'market': 'Isoko',
+      'support': 'Ubufasha',
       'sync_status': 'Byose byageze kuri seriveri',
       'next': 'KOMEZA',
       'start': 'TANGIRA',
-      'skip': 'REKA',
+      'skip': 'SIMBUKA',
     },
   };
 
